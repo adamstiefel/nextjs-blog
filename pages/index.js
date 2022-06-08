@@ -24,10 +24,8 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Florida State University 2023 Major: STEM Entrepreneurship Focus: Computer science. Enjoy building cloud enabled software solutions.</p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
+        <p> Interests: Web Programming & Design, Cloud, and AI </p>
+      
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
