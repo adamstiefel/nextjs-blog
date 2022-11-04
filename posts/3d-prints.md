@@ -22,3 +22,7 @@ Ring Holder
 Created as a gift
 
 ![Ring Holder Gift](https://github.com/adamstiefel/nextjs-blog/blob/main/public/images/ring-holder-gift.png?raw=true)
+
+FSU Stand
+
+![FSU Stand](https://github.com/adamstiefel/nextjs-blog/blob/main/public/images/FSU-stand.png?raw=true)
