@@ -23,9 +23,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Florida State University 2023 Major: STEM Entrepreneurship Focus: Computer science. Enjoy building cloud enabled software solutions.</p>
-        <p> Interests: Web Programming & Design, Cloud, and AI </p>
-      
+        <p>Passionate about building solutions to client needs with cloud computing, web programming, and machine learning.</p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
