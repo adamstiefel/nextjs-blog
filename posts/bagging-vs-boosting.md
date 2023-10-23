@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning - Bagging vs Boosting"
-date: "2022-9-26"
+date: "2022-09-26"
 ---
 
 Baggging

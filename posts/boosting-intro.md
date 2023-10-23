@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning - Intro to Boosting"
-date: "2022-9-25"
+date: "2022-09-25"
 ---
 
 Boosting is a machine learning technique that aims to improve the accuracy of a model. It achieves this by combing "weak" models to create one "strong" model. It is like assembling a dream team of average players with distinct skill sets. Together, they perform better than any one person could.
